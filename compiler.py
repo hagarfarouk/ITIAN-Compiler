@@ -1,0 +1,3 @@
+print("The Compiler will START")
+
+#CREATE FUNCTIONS TO MANAGE THE PROJECT
